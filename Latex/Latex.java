@@ -1,3 +1,6 @@
+https://oeis.org/wiki/List_of_LaTeX_mathematical_symbols
+
+
 To input mathematical formulas into the ChatGPT conversation, you can use LaTeX notation, which is a typesetting system commonly used for mathematical and scientific documents. Here are some examples:
 
 1. **Inline Math:**
