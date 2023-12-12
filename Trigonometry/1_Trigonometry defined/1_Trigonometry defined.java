@@ -2,6 +2,7 @@
 
 Trigonometry is a branch of mathematics concerned with the relationships between the sides and angles of triangles. The word itself comes from the Greek words **trigonon** (triangle) and **metron** (measure).
 
+  Trigonometry is not limited to right triangles. It can also be applied to other types of polygons using the Law of Sines and the Law of Cosines.
 
 
 
