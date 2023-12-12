@@ -1,3 +1,6 @@
+Trigonometry is not limited to right triangles. It can also be applied to other types of polygons using the Law of Sines and the Law of Cosines.
+
+
 Trigonometry is not limited to triangles. While trigonometric functions are most commonly defined and used in the context of right triangles, they can also be applied to other types of polygons.
 
 The trigonometric functions sine (sin), cosine (cos), and tangent (tan) are all defined based on the angles of a right triangle. However, these functions can be extended to any angle, not just those in a right triangle. This is done using the unit circle, which is a circle of radius 1 centered at the origin of a coordinate system. The unit circle is used to define the values of the trigonometric functions for all angles [Source 4](https://www.khanacademy.org/math/trigonometry).
