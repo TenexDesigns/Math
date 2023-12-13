@@ -1,3 +1,5 @@
+https://www.cuemath.com/trigonometry/   --- Best website
+
 Trigonometry
 Trigonometry is the branch of mathematics that deals with the relationship between ratios of the sides of a right-angled triangle with its angles. The ratios used to study this relationship are called trigonometric ratios, namely, sine, cosine, tangent, cotangent, secant, cosecant. The word trigonometry is a 16th century Latin derivative and the concept was given by the Greek mathematician Hipparchus.
 
